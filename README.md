@@ -3,7 +3,7 @@
 project written by: github.com/barlik123 and github.com/omer-sade
 
 ## Summary: 
-The code gets 1 or more input files written in assembley, and translate them into binary. 
+The code gets 1 or more input files written in assembly, and translate them into binary. 
 
 ## How to use: 
 After typing 'make' in the terminal (to build the app), run the command './app (filename1) (filename2) ...
