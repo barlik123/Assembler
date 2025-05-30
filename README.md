@@ -6,8 +6,9 @@ project written by: github.com/barlik123 and github.com/omer-sade
 The code gets 1 or more input files written in assembley, and translate them into binary. 
 
 ## How to use: 
-After typing 'make' in the terminal (to build the app), run the command './app <filename1> <filename2> ...
-Result binary code will be found in the <filname>.ob file.
+After typing 'make' in the terminal (to build the app), run the command './app (filename1) (filename2) ...
+
+Result binary code will be found in the (filname).ob file.
 
 ## main programs that are responsible to run the entire code:
 
